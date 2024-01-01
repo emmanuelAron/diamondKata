@@ -1,0 +1,2 @@
+# diamondKata
+diamond Kata
